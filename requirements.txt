@@ -2,3 +2,8 @@ numpy
 requests
 jupyter
 jupyterlab
+pandas
+mysql
+mysql-connector-python
+pymongo
+dnspython
